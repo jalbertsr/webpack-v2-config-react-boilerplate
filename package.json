@@ -1,0 +1,12 @@
+{
+  "name": "webpack-react-babel-v2",
+  "version": "1.0.0",
+  "description": "webpack react configuration",
+  "main": "index.js",
+  "repository": "https://github.com/jalbertsr/webpack-v2-config-react-boilerplate.git",
+  "author": "Joan Albert Segura <jalbertsr@protonmail.ch>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "2.2.1"
+  }
+}
